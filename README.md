@@ -5,7 +5,7 @@
 Learning from [Google's Angular Phonecat](https://github.com/angular/angular-phonecat)
 
 
-#BUILD1234567
+#BUILD12345678
 ## Overview
 
 This application takes the developer through the process of building a web-application using
